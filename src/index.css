@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+:root {
+  --PrimaryColor: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+  --MainColor: tomato;
+  --MainWhite: #fff;
+  --MainBlack: #222;
+  --MainGrey: #ececec;
+  --MainSpacing: 0.1rem;
+  --MainTransition: all 0.3s linear;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--mainBlack);
+  background: var(mainWhite);
+  font-family: "Lato", sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  background: rgb(105, 50, 131);
+}

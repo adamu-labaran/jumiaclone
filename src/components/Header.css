@@ -1,0 +1,20 @@
+.wrapperOne {
+  padding: 20px 0;
+  background: #633185;
+}
+.wrapperTwo {
+  padding: 5px 0;
+  background: #f1f1f2;
+}
+.wrapperThree {
+  padding: 45px;
+  background: teal;
+}
+
+.wrapper-items {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
